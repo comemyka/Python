@@ -1,3 +1,4 @@
 django==2.2.0       # trae una versión antigua de pytz vulnerable de forma transitiva
 requests==2.19.0 
 pandas==2.2.3
+pytest==8.3.3
